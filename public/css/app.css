@@ -1,0 +1,12 @@
+body {
+  width: 600px;
+  margin: auto;
+}
+
+article {
+  line-height: 1.6;
+}
+
+article + article {
+  margin-top: 100px;
+}
